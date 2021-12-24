@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       WP Custom Post Style
  * Plugin URI:        #
- * Description:       Provides Custom Post Style
+ * Description:       Provides Custom Post Stylehbjhb
  * Author:            Team Techvengers
  * Author URI:        https://techvengers.com
  * Text Domain:       wp-custom-post-style
